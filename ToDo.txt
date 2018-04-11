@@ -1,0 +1,30 @@
+1. Changelist
+2. Simplify property saving.
+
+High Priority.
+1. JavaDoc
+2. Installation steps
+3. Maven Build
+4. Contribution to code
+5. Eclipse Formatter
+6. CheckStyle
+7. Travis build
+8. Gradle build
+9.i18n support
+10.Logging
+
+Low Priority
+2. Stochastic motion for DFS, BFS and A*
+5.Twiddle
+7.Group nearest particles for multiple ghost
+8.Count total created instances in path planning and smoothing
+9.Multiple worlds for path planning
+10.Tie brakers and multiple goal points.
+11.8-puzzule game
+12. Generic algorithms
+13. D* algorithm
+14. Different obstacle to be included(tree, mud, water , etc)
+15. comments/documentation to be added
+16. Impl of test cases
+
+World properties and collision cost addition
